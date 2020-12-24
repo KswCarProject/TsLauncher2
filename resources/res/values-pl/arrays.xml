@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="weekday">
+        <item>niedziela</item>
+        <item>poniedziałek</item>
+        <item>wtorek</item>
+        <item>środa</item>
+        <item>czwartek</item>
+        <item>piątek</item>
+        <item>sobota</item>
+    </array>
+</resources>

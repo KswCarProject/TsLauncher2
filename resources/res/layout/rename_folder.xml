@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:launcher="http://schemas.android.com/apk/res/com.android.launcher" xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:padding="20dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:gravity="left" android:id="@+id/label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/rename_folder_label"/>
+    <EditText android:textAppearance="?android:attr/textAppearanceMedium" android:gravity="fill_horizontal" android:id="@+id/folder_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:scrollHorizontally="true" android:maxLength="30" android:capitalize="none" android:autoText="false"/>
+</LinearLayout>

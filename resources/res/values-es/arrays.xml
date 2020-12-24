@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="weekday">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </array>
+    <array name="direction">
+        <item>North</item>
+        <item>North by east</item>
+        <item>Northeast</item>
+        <item>East by North</item>
+        <item>East</item>
+        <item>East by south</item>
+        <item>Southeast</item>
+        <item>South by east</item>
+        <item>South</item>
+        <item>South by west</item>
+        <item>Southwest</item>
+        <item>West by south</item>
+        <item>West</item>
+        <item>West by North</item>
+        <item>Northwest</item>
+        <item>North by west</item>
+    </array>
+    <array name="simple_direction">
+        <item>North</item>
+        <item>Northeast</item>
+        <item>East</item>
+        <item>Southeast</item>
+        <item>South</item>
+        <item>Southwest</item>
+        <item>West</item>
+        <item>Northwest</item>
+    </array>
+</resources>

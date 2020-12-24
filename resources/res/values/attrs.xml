@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="direction">
+        <enum name="horizontal" value="1" />
+        <enum name="vertical" value="0" />
+    </attr>
+    <attr name="sourceViewId" format="integer">
+    </attr>
+    <attr name="drawIdentifier" format="string">
+    </attr>
+    <attr name="defaultScreen" format="integer">
+    </attr>
+    <attr name="cellCountX" format="integer">
+    </attr>
+    <attr name="cellCountY" format="integer">
+    </attr>
+    <attr name="cellWidth" format="dimension">
+    </attr>
+    <attr name="cellHeight" format="dimension">
+    </attr>
+    <attr name="widthGap" format="dimension">
+    </attr>
+    <attr name="heightGap" format="dimension">
+    </attr>
+    <attr name="maxGap" format="dimension">
+    </attr>
+    <attr name="strokeColor" format="color">
+    </attr>
+    <attr name="strokeTextColor" format="color">
+    </attr>
+    <attr name="strokeWidth" format="float">
+    </attr>
+    <attr name="sourceImageViewId" format="integer">
+    </attr>
+    <attr name="pageLayoutWidthGap" format="dimension">
+    </attr>
+    <attr name="pageLayoutHeightGap" format="dimension">
+    </attr>
+    <attr name="pageLayoutPaddingTop" format="dimension">
+    </attr>
+    <attr name="pageLayoutPaddingBottom" format="dimension">
+    </attr>
+    <attr name="pageLayoutPaddingLeft" format="dimension">
+    </attr>
+    <attr name="pageLayoutPaddingRight" format="dimension">
+    </attr>
+    <attr name="pageSpacing" format="dimension">
+    </attr>
+    <attr name="scrollIndicatorPaddingLeft" format="dimension">
+    </attr>
+    <attr name="scrollIndicatorPaddingRight" format="dimension">
+    </attr>
+    <attr name="maxAppCellCountX" format="integer">
+    </attr>
+    <attr name="maxAppCellCountY" format="integer">
+    </attr>
+    <attr name="widgetCellWidthGap" format="dimension">
+    </attr>
+    <attr name="widgetCellHeightGap" format="dimension">
+    </attr>
+    <attr name="widgetCountX" format="integer">
+    </attr>
+    <attr name="widgetCountY" format="integer">
+    </attr>
+    <attr name="clingFocusedX" format="integer">
+    </attr>
+    <attr name="clingFocusedY" format="integer">
+    </attr>
+    <attr name="className" format="string">
+    </attr>
+    <attr name="packageName" format="string">
+    </attr>
+    <attr name="container" format="string">
+    </attr>
+    <attr name="screen" format="string">
+    </attr>
+    <attr name="x" format="string">
+    </attr>
+    <attr name="y" format="string">
+    </attr>
+    <attr name="spanX" format="string">
+    </attr>
+    <attr name="spanY" format="string">
+    </attr>
+    <attr name="icon" format="reference">
+    </attr>
+    <attr name="title" format="reference">
+    </attr>
+    <attr name="uri" format="string">
+    </attr>
+    <attr name="key" format="string">
+    </attr>
+    <attr name="value" format="string">
+    </attr>
+    <attr name="weather" format="integer">
+    </attr>
+    <attr name="weather_image" format="integer">
+    </attr>
+    <attr name="current_temp" format="integer">
+    </attr>
+    <attr name="weather_txt" format="integer">
+    </attr>
+    <attr name="temperature_txt" format="integer">
+    </attr>
+    <attr name="btn_refresh" format="integer">
+    </attr>
+    <attr name="location_txt" format="integer">
+    </attr>
+    <attr name="update_time" format="integer">
+    </attr>
+    <attr name="weatherbackgroundres" format="integer">
+    </attr>
+    <attr name="pointer" format="reference">
+    </attr>
+    <attr name="pointer_MarginLeft" format="integer">
+    </attr>
+    <attr name="pointer_MarginTop" format="integer">
+    </attr>
+    <attr name="dot" format="reference">
+    </attr>
+    <attr name="dot_MarginLeft" format="integer">
+    </attr>
+    <attr name="dot_MarginTop" format="integer">
+    </attr>
+    <attr name="text" format="integer">
+    </attr>
+    <attr name="speed" format="float">
+    </attr>
+    <attr name="degree" format="float">
+    </attr>
+    <attr name="dial" format="reference">
+    </attr>
+    <attr name="secondhand" format="reference">
+    </attr>
+    <attr name="hourhand" format="reference">
+    </attr>
+    <attr name="minuteshand" format="reference">
+    </attr>
+    <attr name="point" format="reference">
+    </attr>
+    <attr name="marginLeft" format="integer">
+    </attr>
+    <attr name="marginTop" format="integer">
+    </attr>
+    <attr name="compass_dial_zh" format="reference">
+    </attr>
+    <attr name="compass_dial_en" format="reference">
+    </attr>
+    <attr name="compass_above_dial" format="reference">
+    </attr>
+    <attr name="compass_below_dial" format="reference">
+    </attr>
+</resources>

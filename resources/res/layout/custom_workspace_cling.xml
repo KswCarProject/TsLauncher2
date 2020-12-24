@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.launcher2.Cling xmlns:launcher="http://schemas.android.com/apk/res/com.android.launcher" xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" launcher:drawIdentifier="workspace_custom">
+    <TextView android:textSize="20dp" android:textColor="@android:color/holo_blue_light" android:gravity="left" android:layout_gravity="bottom|left|center_vertical|center_horizontal|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/dummy_custom_cling_error_message"/>
+</com.android.launcher2.Cling>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="weekday">
+        <item>星期 日</item>
+        <item>星期 一</item>
+        <item>星期 二</item>
+        <item>星期 三</item>
+        <item>星期 四</item>
+        <item>星期 五</item>
+        <item>星期 六</item>
+    </array>
+    <array name="direction">
+        <item>正北</item>
+        <item>北偏東</item>
+        <item>東北</item>
+        <item>東偏北</item>
+        <item>東</item>
+        <item>東偏南</item>
+        <item>東南</item>
+        <item>南偏東</item>
+        <item>南</item>
+        <item>南偏西</item>
+        <item>西南</item>
+        <item>西偏南</item>
+        <item>西</item>
+        <item>西偏北</item>
+        <item>西北</item>
+        <item>北偏西</item>
+    </array>
+    <array name="simple_direction">
+        <item>北</item>
+        <item>東北</item>
+        <item>東</item>
+        <item>東南</item>
+        <item>南</item>
+        <item>西南</item>
+        <item>西</item>
+        <item>西北</item>
+    </array>
+</resources>

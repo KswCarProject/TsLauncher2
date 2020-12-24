@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.launcher2.SearchDropTargetBar xmlns:launcher="http://schemas.android.com/apk/res/com.android.launcher" xmlns:android="http://schemas.android.com/apk/res/android" android:focusable="false">
+    <include android:id="@+id/qsb_search_bar" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/search_bar"/>
+    <LinearLayout android:id="@+id/drag_target_bar" android:paddingLeft="@dimen/btn_all_apps_left_padding" android:paddingRight="@dimen/btn_all_apps_right_padding" android:layout_width="83px" android:layout_height="83px">
+        <include layout="@layout/drop_target_bar"/>
+    </LinearLayout>
+</com.android.launcher2.SearchDropTargetBar>

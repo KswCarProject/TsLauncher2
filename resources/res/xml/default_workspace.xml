@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.android.launcher" xmlns:android="http://schemas.android.com/apk/res/android">
+    <favorite launcher:className="com.android.settings.Settings" launcher:packageName="com.android.settings" launcher:screen="0" launcher:x="0" launcher:y="1"/>
+    <shortcut launcher:className="com.android.settings.Settings" launcher:packageName="com.android.settings" launcher:screen="0" launcher:x="4" launcher:y="1" launcher:icon="@mipmap/ic_launcher_wallpaper" launcher:title="@string/activity_not_found"/>
+    <shortcut launcher:screen="0" launcher:x="3" launcher:y="1" launcher:icon="@mipmap/ic_launcher_wallpaper" launcher:title="@string/activity_not_found" launcher:uri="#Intent;component=com.android.settings/.Settings;end"/>
+</favorites>
